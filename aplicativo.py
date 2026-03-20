@@ -35,7 +35,7 @@ st.markdown(
 # CARREGAMENTO DIRETO DAS BASES
 # ---------------------------
 shape_path = "PB_Municipios_2023.shp"
-excel_path = "Dados de área Paraiba.xlsx"
+excel_path = "dados_paraiba.xlsx"
 
 if not os.path.exists(shape_path):
     st.error("O shapefile 'PB_Municipios_2023.shp' não foi encontrado na pasta.")

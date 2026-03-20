@@ -1,0 +1,11 @@
+streamlit>=1.30
+geopandas==0.14.3
+pandas>=1.5
+folium>=0.15
+streamlit-folium>=0.18
+plotly>=5.18
+libpysal>=4.10
+esda>=2.5
+shapely>=2.0
+pyproj>=3.6
+fiona>=1.9

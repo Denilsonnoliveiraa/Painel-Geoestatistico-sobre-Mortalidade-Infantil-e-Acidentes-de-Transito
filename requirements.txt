@@ -29,3 +29,13 @@ fiona
 pyproj
 shapely
 rtree
+streamlit
+geopandas
+pandas
+folium
+streamlit-folium
+plotly
+libpysal
+esda
+openpyxl
+pyogrio

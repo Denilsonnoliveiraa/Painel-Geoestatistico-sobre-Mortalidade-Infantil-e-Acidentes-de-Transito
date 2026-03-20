@@ -9,3 +9,8 @@ esda>=2.5
 shapely>=2.0
 pyproj>=3.6
 fiona>=1.9
+geopandas
+fiona
+pyproj
+shapely
+rtree

@@ -43,7 +43,7 @@ elif not os.path.exists(excel_path):
     st.error("O arquivo Excel 'Dados de área Paraiba.xlsx' não foi encontrado na pasta.")
 else:
     with st.spinner("Carregando dados..."):
-        gdf = gpd.read_file(shape_path)
+        gdf = gpd.read_file(shape_path, engine="pyogrio")
         df = pd.read_excel(excel_path)
 
     col_municipio = "Município "

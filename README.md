@@ -24,7 +24,7 @@ Prof. Dr. Jader da Silva Jale; ORCID: https://orcid.org/0000-0001-7414-1154
 
 ## Como citar: 
 
-SILVA, D. O. et al. PainelSaudeDash. Programa de computador. Registro INPI nº 512026001517-0, 2025.
+SILVA, D. O. et al. Painel Geoestatístico de Taxas de Mortalidade Infantil e Acidentes de Trânsito na Paraíba. Programa de computador. Registro INPI nº 512026001517-0, 2025.
 
 # Painel Geoestatístico de Taxas de Mortalidade Infantil e Acidentes de Trânsito na Paraíba
 

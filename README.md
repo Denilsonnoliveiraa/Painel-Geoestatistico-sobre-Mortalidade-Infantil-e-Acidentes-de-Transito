@@ -24,9 +24,11 @@ Prof. Dr. Jader da Silva Jale; ORCID: https://orcid.org/0000-0001-7414-1154
 
 ## Como citar: 
 
-SILVA, D. O. et al. Painel Geoestatístico de Taxas de Mortalidade Infantil e Acidentes de Trânsito na Paraíba. Programa de computador. Registro INPI nº 512026001517-0, 2025.
+SILVA, D. O. et al. Painel Geoestatístico de Taxas de Mortalidade Infantil e Acidentes de Trânsito na Paraíba. Programa de computador. Registro INPI nº 512026001517-0, 2026.
 
 # Painel Geoestatístico de Taxas de Mortalidade Infantil e Acidentes de Trânsito na Paraíba
+
+O software intitulado “ Painel Geoestatístico de Taxas de Mortalidade Infantil e Acidentes de Trânsito na Paraíba” foi protocolado junto ao INPI sob o número nº 512026001517-0 e desenvolvido em parceria entre a Universidade Estadual da Paraíba e a Universidade Federal Rural de Pernambuco, destacando-se como resultado das pesquisas conduzidas nos Departamentos de Estatística e Ciências da Computação – CCT (Centro de Ciências e tecnologias) da UEPB (Universidade Estadual da Paraíba).
 
 O Sistema Reúne Dados Oficiais Do Instituto de Pesquisa Econômica Aplicada (Ipea) E Do Instituto Brasileiro de Geografia e Estatística (IBGE), Referentes Ao Ano De 2022, Agregados Por Município, Proporcionando Uma Base Consistente E Confiável Para A Realização De Análises Espaciais Avançadas Sobre Indicadores De Mortalidade Infantil E Acidentes De Trânsito No Estado Da Paraíba.
 
